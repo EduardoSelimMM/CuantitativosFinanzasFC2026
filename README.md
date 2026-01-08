@@ -19,13 +19,20 @@
 
 ## Bibliografía
 
-1. Brun, X., & Moreno, M. (2008). Análisis y selección de inversiones en mercados financieros. Barcelona: Profit Editorial.
-2. Castañeda González, F., & Aguirre Álvarez, J. (2000). Manual de finanzas corporativas (2a. ed.). Editorial de la Universidad de Santiago de Chile.
-3. Damodaran, A. (2011). Applied Corporate Finance: A user's Manual. (3a ed.). United States of America: John Wiley & Sons, Inc.
-4. Gitman, Lawrence J. y Michael Joehnk (2009). Fundamentos de inversiones, décima edición, trad. de Miguel Ángel Sánchez Carrión, México, Pearson Educación.
-5. Graham, J., Smart, S. y Megginson, W. (2011). Finanzas corporativas: el vínculo entre la teoría y lo que las empresas hacen. (3a ed). EUA: Cengage.
-6. Ross, S. A., Westerfield, R. W. y Jaffe, J. (2012). Corporate Finance. (9a ed.). EUA: McGraw Hill.
-7. Ehrhardt, M. C. y Brigham, E. F. (2017). Finanzas Corporativas. EUA: Cengage.
+1. Lo, Ambrose. (2018). \textit{Derivative Pricing. A Problem-Based Primer.}. Taylor \& Francis Group, LLC
+2.  McDonald, R. (2012). \textit{Derivative Markets}. Third Edition. Pearson Series in Finance.
+3. Baxter, M. \& Rennie, A. (1996). \textit{Financial Calculus: An Introduction to Derivative Pricing}. 17th. Edition. Cambridge University Press.
+4. Junghenn, H. (2019). \textit{An Introduction to Financial Mathematics: Option Valuation}. 2nd. Edition. Chapman and Hall/CRC.
+5. Elton, G., Gruber, M. Brown, S. \& Goetzmann, W. (2014). \textit{Modern Portfolio Theory and Investment Analysis}. 9th Edition. Wiley.
+6. Luenberger, D. (2013). \textit{Investment Science}. 2nd Edition. Oxford University Press.
+7. Ohsaki, S., Ruppert-Felsot, J. \& Yoshikawa, D. (2018). \textit{R Programming and Its Applications in Financial Mathematics}. CRC Press.
+8. Regenstein, J. (2018). \textit{Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis.} Chapman and Hall/CRC.
+9. Ruppert, D. \& Matteson, D. (2015). \textit{Statistics and Data Analysis for Financial Engineering: with R examples}. Springer Texts in Statistics.
+10. Berk, J. \& DeMarzo, P. (2017) \textit{Corporate Finance}. 4th Edition. Pearson.
+11. Daróczi, G. \textit{et al.} (2013). \textit{Introduction to R for Quantitative Finance}. 1st Edition. Packt Publishing.
+12. Charpentier, A. (2016). \textit{Computational Actuarial Science with R}. 1st Edition. CRC Press.
+13. Wickham, H. \& Grolemund, G. (2017)\textit{R for Data Science}. 1st. Edition. O'Reilly.
+14. Wickham, H. \& Grolemund, G. (2020)\textit{R for Data Science}. 2nd. Edition. Versión en línea.
 
 # 🎖 EVALUACIÓN 🎖
 El curso será evaluado de la siguiente manera:
