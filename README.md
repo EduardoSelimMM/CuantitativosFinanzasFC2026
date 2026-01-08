@@ -30,10 +30,9 @@
 # 🎖 EVALUACIÓN 🎖
 El curso será evaluado de la siguiente manera:
 
-+ Dos exámenes parciales: De manera individual en el salón de clases, cuyo valor es del 60\% de la calificación final.
-+ Un examen final: De manera individual en el salón de clases, cuyo valor es del 20\% de la calificación final
-+ Proyecto final: En equipos de a lo más 3 personas, cuyo valor es del 20\%
-+ Es necesaria asistencia de al menos el 85\% para poder presentar las evaluaciones.
++ Tareas de casa y laboratorios/Prácticas/Proyectos de R \& Python: En equipos de a los más 4 integrantes y cuyo valor será del 30\% de la calificación final. 5 tareas aproximadamente.
++ Cuatro exámenes parciales: De manera individual en el salón de clases, cuyo valor es del 70\% de la calificación final.
++ Habrá dos reposiciones y un examen final (el mismo día)
 + La escala de calificaciones en la siguiente:
 [0,6)-5, [6, 6.6)-6, [6.6, 7.6)-7, [7.6, 8,6)-8, [8.6, 9.6)-9 y [9.6, 10)-10
 + No se cambia ninguna calificación por NP. No hay renuncias a calificaciones.
@@ -55,6 +54,10 @@ El curso será evaluado de la siguiente manera:
 <img src="imagenes/calendario_unam.png" align="right" height="350" width="250" hspace="8">
 
 ## Exámenes Parciales
-+ Parcial 1 (30\%). Profesor titular. Martes 24 de marzo de 2026.
-+ Parcial 2 (30\%): Profesor adjunto (Teoría de Portafolios). Jueves 28 de mayo de 2026.
-+ Examen final (20\%): Martes 26 de mayo de 2026.
++ Tema 1. Viernes 28 de febrero de 2025.
++ Tema 2. Viernes 28 de marzo de 2025.
++ Temas 3 y 4. Viernes 25 de abril de 2025.
++ Tema 5. Viernes 23 de Mayo de 2024.
+
+### Reposiciones y Examen Final
+Fecha indicada por la División de Estudios Profesionales para el segundo periodo de exámenes finales.
