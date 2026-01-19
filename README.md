@@ -36,41 +36,22 @@ Las clases se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana 
 + El Teorema de un fondo de inversión.
 + Conos $n$-dimensionales. Lema de Farkas y valuación por arbitraje.
 + Medidas de desempeño. Benchmarks, Sharpe, Treynor y Jensen.
-
 + Modelos factoriales.
   + Modelo de un factor.
-      + Estimación paramétrica.
-      + Técnica de Blume.
+    + Estimación paramétrica.
+    + Técnica de Blume.
   + Modelos multi-factor.
-
-\item[2.9] 
-\begin{itemize}
-\item[2.9.1] 
-\begin{itemize}
-\item[2.9.1.1] 
-\item[2.9.1.2] 
-\end{itemize}
-\item[2.9.2] 
-\begin{itemize}
-\item[2.9.2.1] Tipos de modelos multifactor.
-\item[2.9.2.2] Ortogonalización en modelos multi-factor.
-\end{itemize}
-\end{itemize}
-\item[2.10] Modelo CAPM.
-\begin{itemize}
-\item[2.10.1] Suposiciones del modelo CAPM.
-\item[2.10.2] Recta de mercado de capitales y recta característica.
-\item[2.10.3] Evaluación del modelo CAPM.
-\end{itemize}
-\item[2.11] Modelo APT.
-\begin{itemize}
-\item[2.11.1] Modelos binomiales y trinomiales.
-\item[2.11.2] Teoría APT.
-\item[2.11.3] Relación entre los modelos APT y CAPM.
-\item[2.11.4] Modelo Fama-French.
-\end{itemize}
-\item[2.12] Algunas implementaciones en R.
-\end{itemize}
+    + Tipos de modelos multifactor.
+    + Ortogonalización en modelos multi-factor.
++ Modelo CAPM.
+  + Suposiciones del modelo CAPM.
+  + Recta de mercado de capitales y recta característica.
+  + Evaluación del modelo CAPM.
++ Modelo APT.
+  + Teoría APT.
+  + Relación entre los modelos APT y CAPM.
+  + Modelo Fama-French.
++ Algunas implementaciones en R.
 
 ## Tema 2. Introducción a instrumentos financieros derivados
 
