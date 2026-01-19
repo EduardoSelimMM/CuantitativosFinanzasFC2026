@@ -24,7 +24,56 @@ Las clases se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana 
 
 # Temario
 
+## Tema 1. Introducción a portafolios de inversión
+
++ Cálculo de rendimientos de instrumentos de inversión y carteras.
+  + Media y varianza de rendimientos. Efecto de la diversificación sobre la varianza.
+  + Distribución de probabilidad de rendimientos de acciones, bonos y carteras.
++ Conjunto factible y la frontera eficiente.
++ El modelo de Markowitz y sus problemas de optimización.
++ El Teorema de dos fondos de inversión.
++ Inclusión de un activo libre de riesgo.
++ El Teorema de un fondo de inversión.
++ Conos $n$-dimensionales. Lema de Farkas y valuación por arbitraje.
++ Medidas de desempeño. Benchmarks, Sharpe, Treynor y Jensen.
+
++ Modelos factoriales.
+  + Modelo de un factor.
+      + Estimación paramétrica.
+      + Técnica de Blume.
+  + Modelos multi-factor.
+
+\item[2.9] 
+\begin{itemize}
+\item[2.9.1] 
+\begin{itemize}
+\item[2.9.1.1] 
+\item[2.9.1.2] 
+\end{itemize}
+\item[2.9.2] 
+\begin{itemize}
+\item[2.9.2.1] Tipos de modelos multifactor.
+\item[2.9.2.2] Ortogonalización en modelos multi-factor.
+\end{itemize}
+\end{itemize}
+\item[2.10] Modelo CAPM.
+\begin{itemize}
+\item[2.10.1] Suposiciones del modelo CAPM.
+\item[2.10.2] Recta de mercado de capitales y recta característica.
+\item[2.10.3] Evaluación del modelo CAPM.
+\end{itemize}
+\item[2.11] Modelo APT.
+\begin{itemize}
+\item[2.11.1] Modelos binomiales y trinomiales.
+\item[2.11.2] Teoría APT.
+\item[2.11.3] Relación entre los modelos APT y CAPM.
+\item[2.11.4] Modelo Fama-French.
+\end{itemize}
+\item[2.12] Algunas implementaciones en R.
+\end{itemize}
+
 ## Tema 2. Introducción a instrumentos financieros derivados
+
 + Definiciones y conceptos.
   + Definición de producto financiero derivado.
   + Ejemplos de productos derivados y conceptos asociados.
@@ -34,6 +83,7 @@ Las clases se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana 
   + Precio de no arbitraje de un forward para varios subyacentes
   + Precio de no arbitraje de un forward en un subyacente que paga dividendos.
 + Opciones y estrategias con opciones. Paridad put-call.
+  + Contratos de opciones y estilo de las opciones.
   + Algortimos de valuación con árboles.
   + Algoritmos de árboles binomiales.
   + Modelos con distribución log-normal.
