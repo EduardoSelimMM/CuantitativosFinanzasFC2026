@@ -134,9 +134,9 @@ Las clases se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana 
 4. Junghenn, H. (2019). *An Introduction to Financial Mathematics: Option Valuation*. 2nd. Edition. Chapman and Hall/CRC.
 5. Elton, G., Gruber, M. Brown, S. \& Goetzmann, W. (2014). *Modern Portfolio Theory and Investment Analysis*. 9th Edition. Wiley.
 6. Luenberger, D. (2013). *Investment Science*. 2nd Edition. Oxford University Press.
-7. Alos, E. & Merino, R. (2022). Introduction to Financial Derivatives with Python. Chapman and Hall/CRC Financial Mathematics.
-8. Flux, J. (2024). Options Pricing with AI. Independently published.
-9. Kelliher, C. (2025). Quantitative Finance with Case Studies in Python: A Practical Guide to Investment Management, Trading and Financial Engineering. Chapman and Hall/CRC Financial Mathematics Series.
+7. Alos, E. & Merino, R. (2022). *Introduction to Financial Derivatives with Python*. Chapman and Hall/CRC Financial Mathematics.
+8. Flux, J. (2024). *Options Pricing with AI*. Independently published.
+9. Kelliher, C. (2025). *Quantitative Finance with Case Studies in Python: A Practical Guide to Investment Management, Trading and Financial Engineering*. Chapman and Hall/CRC Financial Mathematics Series.
 10. Ohsaki, S., Ruppert-Felsot, J. \& Yoshikawa, D. (2018). *R Programming and Its Applications in Financial Mathematics*. CRC Press.
 11. Regenstein, J. (2018). *Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis.* Chapman and Hall/CRC.
 12. Ruppert, D. \& Matteson, D. (2015). *Statistics and Data Analysis for Financial Engineering: with R examples*. Springer Texts in Statistics.
