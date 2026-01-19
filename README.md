@@ -51,7 +51,7 @@ Las clases se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana 
   + Teoría APT.
   + Relación entre los modelos APT y CAPM.
   + Modelo Fama-French.
-+ Algunas implementaciones en R.
++ Algunas implementaciones en Python y R.
 
 ## Tema 2. Introducción a instrumentos financieros derivados
 
@@ -74,6 +74,56 @@ Las clases se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana 
   + Opciones Gap, exchange, compuestas, barrera, asiáticas, forward-start, rainbow.
   + Algunas aplicaciones actuariales del concepto de opción.
 + Algunas implementaciones en Python y R.
+
+## Tema 3. Medidas de riesgo
+
++ Definición de medidas de riesgo
++ Marcos axiomáticos para medidas de riesgo
++ Value-at-Risk
+  + Estimaciones del Value-at-Risk
++ Tail Value-at-Risk
+  + Estimaciones del Tail Value-at-Risk
++ Expected Shortfall
+  + Estimaciones del Expected Shortfall.
++ Intervalos de confianza bootstrap para el VaR y ES.
++ Otras medidas de riesgo.
++ Algunas implementaciones en Python y R.
+
+## Tema 4. Marco teórico para valuación riesgo neutro y opciones americanas
+
++ Procesos de portafolios en tiempo discreto.
+  + Estrategias de inversión auto-financiadas.
+  + Equivalencias para auto-financiamiento.
+  + Completez y arbitraje en el modelo binomial.
+  + El proceso de valor como martingala.
+  + Teoremas fundamentales de valuación. Teorema de representación binomial.
+  + Cambio de medida en tiempo discreto.
++ Introducción a cálculo estocástico
+  + Movimiento Browniano.
+  + Integrales estocásticas.
+  + Lema de Ito.
+  + Ecuaciones diferenciales estocásticas.
++ Procesos de portafolio en tiempo continuo.
+  + Ecuaciones diferenciales estocásticas para el precio de acciones.
+  + Teorema de Black \& Scholes.
+  + Martingalas en tiempo continuo.
+  + Teorema de Girsanov y teorema de representación martingala.
+  + Valuación neutral al riesgo en tiempo continuo.
+  + Heurística en el cambio de medida en tiempo continuo.
+  + Heurística de la representación de Feynman-Kac.
++ Especificidades en opciones americanas.
+  + Coberturas y tiempos de paro.
+  + Ejercicio óptimo.
+  + Algunos algoritmos de valuación clásicos (Tema opcional).
+
+## Tema 5. Introducción a modelos de series de tiempo financieras
+
++ Procesos estacionarios.
++ Descomposiciones tradicionales de series de tiempo.
++ Auto-correlación y auto-correlación parcial
++ Procesos $AR$, $MA$, $ARMA$, $ARIMA$, $FARIMA$, $ARCH$ y $GARCH$.
++ Aplicaciones a históricos de precios de diferentes instrumentos financieros.
++ Implementaciones en Python y R.
 
 
 ## Bibliografía
