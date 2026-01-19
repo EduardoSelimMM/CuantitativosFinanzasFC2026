@@ -24,42 +24,25 @@ Las clases se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana 
 
 # Temario
 
-## Tema 1. Introducción a instrumentos financieros derivados
+## Tema 2. Introducción a instrumentos financieros derivados
 + Definiciones y conceptos.
   + Definición de producto financiero derivado.
   + Ejemplos de productos derivados y conceptos asociados.
 + El concepto de arbitraje.
-    + Supuesto de no arbitraje y el concepto de precio de no arbitraje.
-\begin{itemize}
-\item[1.1] 
-\begin{itemize}
-\item[1.1.1] 
-\item[1.1.2] Ej
-\end{itemize}
-\item[1.2]
-\begin{itemize}
-\item[1.2.1] 
-\end{itemize}
-\item[1.3] Definición y conceptos asociados a un contrato forward.
-\begin{itemize}
-\item[1.3.1] Precio de no arbitraje de un forward para varios subyacentes
-\item[1.3.2] Precio de no arbitraje de un forward en un subyacente que paga dividendos.
-\end{itemize}
-\item[1.4] Opciones y estrategias con opciones. Paridad put-call.
-\begin{itemize}
-\item[1.4.1] Algortimos de valuación con árboles.
-\item[1.4.2] Algoritmos de árboles binomiales.
-\item[1.4.3] Modelos con distribución log-normal.
-\item[1.4.4] La fórmula de Black \& Scholes.
-\item[2.4.5] Introducción a griegas y delta-hedging.
-\end{itemize}
-\item[1.5] Algunas variaciones de opciones.
-\begin{itemize}
-\item[1.5.1] Opciones Gap, exchange, compuestas, barrera, asiáticas, forward-start, rainbow.
-\item[1.5.2] Algunas aplicaciones actuariales del concepto de opción.
-\end{itemize}
-\item[1.6] Algunas implementaciones en R.
-\end{itemize}
+  + Supuesto de no arbitraje y el concepto de precio de no arbitraje. 
++ Definición y conceptos asociados a un contrato forward.
+  + Precio de no arbitraje de un forward para varios subyacentes
+  + Precio de no arbitraje de un forward en un subyacente que paga dividendos.
++ Opciones y estrategias con opciones. Paridad put-call.
+  + Algortimos de valuación con árboles.
+  + Algoritmos de árboles binomiales.
+  + Modelos con distribución log-normal.
+  + La fórmula de Black \& Scholes.
+  + Introducción a griegas y delta-hedging.
++ Algunas variaciones de opciones.
+  + Opciones Gap, exchange, compuestas, barrera, asiáticas, forward-start, rainbow.
+  + Algunas aplicaciones actuariales del concepto de opción.
++ Algunas implementaciones en Python y R.
 
 
 ## Bibliografía
