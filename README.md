@@ -18,9 +18,9 @@
 Este es el tercer curso del área de finanzas. Tiene objetivos más claros y ambiciosos que el curso de Mercados Financieros. En este curso se estudian conceptos introductorios de productos financieros derivados: modelos de valuación discretos y continuos de éstos así como una breve introducción a cálculo estocástico. Otro de los ejes temáticos del curso consiste en extender la Teoría de Portafolios que se estudio en el curso de Mercados Financieros; se profundizará en el modelo APT y en los modelos factoriales. También se estudiará una herramienta fundamental para la administración de riesgos financieros: las medidas de riesgos. Se centrará la atención en el Valor en Riesgo y el Tail Value at Risk, i.e. se estudiarán metodologías de estimación de éstos. Finalmente, todo curso que pretenda estudiar metodologías cuantitativas en finanzas, debiese incluir una sección de análisis de series de tiempo; dichos modelos surgen de manera natural en finanzas. Si bien este tema se analiza en el curso de Modelos de Supervivencia y de Series de Tiempo, éste se centrará en algunas aplicaciones financieras.
 
 ## 🧑🏻‍🏫 Dinámica de las sesiones 🧑🏻‍🏫
-Las clases se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana mediante Google Meet. Toda comunicación e intercambio de archivos se llevará a cabo a través de Google Classroom (allí se distribuirán tareas, mensajes, exámenes, etc). También se dejarán algunas lecturas y videos para reforzar lo visto durante la clase.\\
+Las clases se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana mediante Google Meet. Toda comunicación e intercambio de archivos se llevará a cabo a través de Google Classroom (allí se distribuirán tareas, mensajes, exámenes, etc). También se dejarán algunas lecturas y videos para reforzar lo visto durante la clase.
 
-+ **Requisitos sugeridos:** Mercados Financieros y Valuación de Instrumentos, Inferencia Estadística y Procesos Estocásticos I.\\
++ **Requisitos sugeridos:** Mercados Financieros y Valuación de Instrumentos, Inferencia Estadística y Procesos Estocásticos I.
 
 # 📊 Temario 📊
 
