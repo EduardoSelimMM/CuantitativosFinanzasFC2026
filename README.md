@@ -1,7 +1,7 @@
 # Métodos Cuantitativos en Finanzas
 ## Semestre: 2026-2
 ### Del 2 de febrero al 10 de junio de 2026
-### Licenciatura en Actuaría
+### Facultad de Ciencias, UNAM
 
 <img src="imagenes/image.gif" align="right" height="250" width="250" hspace="10">
 
