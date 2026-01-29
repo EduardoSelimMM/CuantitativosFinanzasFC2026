@@ -174,7 +174,7 @@ El curso será evaluado de la siguiente manera:
 + Tema 1. Viernes 27 de febrero de 2026.
 + Tema 2. Viernes 27 de marzo de 2026.
 + Temas 3 y 4. Viernes 24 de abril de 2026.
-+ Tema 5. Viernes 23 de Mayo de 2026.
++ Tema 5. Viernes 29 de mayo de 2026.
 
 ### Reposiciones y Examen Final
 Fecha indicada por la División de Estudios Profesionales para el segundo periodo de exámenes finales.
