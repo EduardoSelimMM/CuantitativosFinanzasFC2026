@@ -171,9 +171,9 @@ El curso será evaluado de la siguiente manera:
 <img src="imagenes/calendario_unam.png" align="right" height="350" width="250" hspace="8">
 
 ## Exámenes Parciales
-+ Tema 1. Viernes 28 de febrero de 2026.
-+ Tema 2. Viernes 28 de marzo de 2026.
-+ Temas 3 y 4. Viernes 25 de abril de 2026.
++ Tema 1. Viernes 27 de febrero de 2026.
++ Tema 2. Viernes 27 de marzo de 2026.
++ Temas 3 y 4. Viernes 24 de abril de 2026.
 + Tema 5. Viernes 23 de Mayo de 2026.
 
 ### Reposiciones y Examen Final
