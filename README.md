@@ -158,12 +158,10 @@ El curso será evaluado de la siguiente manera:
 
 # 🧐 ACLARACIONES 🧐
 
-+ Las sesiones requieren asistencia plena, no sólo física.
++ Las sesiones requieren asistencia plena, no sólo física/virtual, participación y atención activa.
 + Bajo ningún motivo se aceptarán tareas después de la fecha fijada de entrega.
 + No se realizarán exámenes extemporáneos por ningún motivo.
-+ No se permiten teléfonos móviles encendidos y en consecuencia, queda prohibido salir del salón para contestar llamadas. En caso de hacerlo se retirará lo que resta de dicha sesión.
-+ No se permite la entrada después de la hora más 15 minutos
-
+  
 # FORMA DE ENTREGA DE LAS TAREAS:
 + Se debe respetar el orden de las preguntas, y si no se contesta alguna, se debe escribir la pregunta y especificar que no se contestó. En caso de no ser así, no se revisará dicha tarea, obteniendo la calificación de cero en dicha tarea.
 + Limpieza y letra legible. Preferentemente en LaTeX o RMarkdown
@@ -173,10 +171,10 @@ El curso será evaluado de la siguiente manera:
 <img src="imagenes/calendario_unam.png" align="right" height="350" width="250" hspace="8">
 
 ## Exámenes Parciales
-+ Tema 1. Viernes 28 de febrero de 2025.
-+ Tema 2. Viernes 28 de marzo de 2025.
-+ Temas 3 y 4. Viernes 25 de abril de 2025.
-+ Tema 5. Viernes 23 de Mayo de 2024.
++ Tema 1. Viernes 28 de febrero de 2026.
++ Tema 2. Viernes 28 de marzo de 2026.
++ Temas 3 y 4. Viernes 25 de abril de 2026.
++ Tema 5. Viernes 23 de Mayo de 2026.
 
 ### Reposiciones y Examen Final
 Fecha indicada por la División de Estudios Profesionales para el segundo periodo de exámenes finales.
