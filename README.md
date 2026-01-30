@@ -171,10 +171,11 @@ El curso será evaluado de la siguiente manera:
 <img src="imagenes/calendario_unam.png" align="right" height="350" width="250" hspace="8">
 
 ## Exámenes Parciales
-+ Tema 1. Viernes 27 y sábado 28 de febrero de 2026.
-+ Tema 2. Viernes 27 y sábado 28 de marzo de 2026.
-+ Temas 3 y 4. Viernes 24 y sábado 25 de abril de 2026.
-+ Tema 5. Viernes 29 y sábado 30 de mayo de 2026.
++ Tema 1. Viernes 27 ó sábado 28 de febrero de 2026.
++ Tema 2. Viernes 27 ó sábado 28 de marzo de 2026.
++ Temas 3 y 4. Viernes 24 ó sábado 25 de abril de 2026.
++ Tema 5. Viernes 29 ó sábado 30 de mayo de 2026.
++ Los exámenes sabatinos deben tener justificación laboral o médica
 
 ### Reposiciones y Examen Final
 Fecha indicada por la División de Estudios Profesionales para el segundo periodo de exámenes finales.
